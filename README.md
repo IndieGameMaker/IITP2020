@@ -12,6 +12,7 @@
 ### 프로젝트 기획 발표
 
 - 프로젝트의 일정상 기획서 발표는 생략한다.
+- 작성한 기획서는 구글 드라이브에 업로드 해주세요.[기획서 업로드](https://drive.google.com/drive/folders/1iaizUTAOOdXKdmKDvF3z4Ru_POlEnZB6?usp=sharing)
 
 ### 프로젝트 일정
 | 일정          | 기간                        | 6/16 | 17  | 18  | 19  | 22  | 23  | 24  |
@@ -38,7 +39,7 @@
 - [발표문서 공식 탬플릿](https://#)
 
 - 발표문서는 06월 24일 13:00 까지 아래 구글 드라이브에 업로드해주세요.(마감시간 엄수)
-- [발표문서 업로드](https://#)
+- [발표문서 업로드](https://drive.google.com/drive/folders/1c-WPWhrchkXj8nc1YAbuwdOSDh7bkyvo?usp=sharing)
 
 ### 프로젝트 발표 순서
 
