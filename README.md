@@ -1,6 +1,11 @@
 ## 2020년 혁신성장 VR/AR/MR 융합 콘텐츠 개발 실무 프로젝트
 
 
+
+### 모베리오 실습 프로젝트
+
+- [프로젝트 소스 깃 허브](https://github.com/IndieGameMaker/SmartGlass)
+
 ## 프로젝트 01 - BT350을 활용한 MR 콘텐츠 개발 프로젝트
 
 - 엡손 Moverio BT-350 기기를 활용해 혼합 현실(MR) 콘텐츠를 개발한다.
