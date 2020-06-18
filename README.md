@@ -41,7 +41,7 @@
 
 ### 프로젝트 발표 문서 작성
 
-- [발표문서 공식 탬플릿](https://#)
+- [발표문서 공식 탬플릿](https://drive.google.com/file/d/1Md_cCOLKDtKy0DO5B_vdeiVO5sHdasWz/view?usp=sharing)
 
 - 발표문서는 06월 24일 13:00 까지 아래 구글 드라이브에 업로드해주세요.(마감시간 엄수)
 - [발표문서 업로드](https://drive.google.com/drive/folders/1c-WPWhrchkXj8nc1YAbuwdOSDh7bkyvo?usp=sharing)
