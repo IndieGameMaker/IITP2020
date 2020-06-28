@@ -120,6 +120,8 @@
   - 협업 메신저인 슬렉([Slack](https://slack.com/intl/en-kr/))로 팀 내부적으로 사용하는 것도 권장.
   - 형상관리는 깃허브를 사용한다. 클라이언트 툴은 [GitHub Desktop](https://desktop.github.com), [SourceTree](https://www.sourcetreeapp.com), [GitKraken](https://www.gitkraken.com) 중 하나를 선택한다.
   - 깃허브 사용시 개발자용(팀원별) 브렌치(Brench)는 생성하지 않는다. (이유는 이번 프로젝트의 기간이 너무 짧다.)
+  - 깃허브 사용시 다양한 충돌(conflict)를 경험하게될 것이며 이를 방지하거나 해결하는 경험을 쌓는다.
+  - 팀장은 매일 팀원들의 소스 코드의 수동 백업 여부를 확인 및 관리한다.
 
 - 구현 기기
   - HMD 장비 : Vive, Oculus Quest (택일)
