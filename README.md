@@ -116,7 +116,7 @@
   - 팀원 공개 모집
 
 - 협업 및 형상관리
-  - 일정관리는 Trello.com을 활용하며 모니터링을 위해 지도 강사(myleje@gmail.com)를 반드시 초대한다. [(트렐로 trello.com)](https://trello.com)
+  - 일정관리는 **Trello**를 활용하며 모니터링을 위해 지도 강사(myleje@gmail.com)를 반드시 초대한다. [(트렐로 trello.com)](https://trello.com)
   - 협업 메신저인 슬렉([Slack](https://slack.com/intl/en-kr/))로 팀 내부적으로 사용하는 것도 권장.
   - 형상관리는 깃허브를 사용한다. 클라이언트 툴은 [GitHub Desktop](https://desktop.github.com), [SourceTree](https://www.sourcetreeapp.com), [GitKraken](https://www.gitkraken.com) 중 하나를 선택한다.
   - 깃허브 사용시 개발자용(팀원별) 브렌치(Brench)는 생성하지 않는다. (이유는 이번 프로젝트의 기간이 너무 짧다.)
