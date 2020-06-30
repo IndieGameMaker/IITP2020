@@ -179,19 +179,19 @@
 
 ### 강의 동영상 링크
 
-[심포디](https://youtu.be/FfAVVpY3qiw)
+- [심포디](https://youtu.be/FfAVVpY3qiw)
 
-[Vive 2일차 1](https://youtu.be/kQuz2w_qtF8)
+- [Vive 2일차 1](https://youtu.be/kQuz2w_qtF8)
 
-[Vive 2일차 2](https://youtu.be/JXjiEq-AFkI)
+- [Vive 2일차 2](https://youtu.be/JXjiEq-AFkI)
 
-[오큘러스 퀘스트](https://youtu.be/kRTJzR1fDq8)
+- [오큘러스 퀘스트](https://youtu.be/kRTJzR1fDq8)
 
-[포톤 1일차](https://youtu.be/NKchovXocTc)
+- [포톤 1일차](https://youtu.be/NKchovXocTc)
 
-[포톤 2일차 1](https://youtu.be/P2Lgh8k2F9o)
+- [포톤 2일차 1](https://youtu.be/P2Lgh8k2F9o)
 
-[포톤 2일차 2](https://youtu.be/S3r9FjkHDlQ)
+- [포톤 2일차 2](https://youtu.be/S3r9FjkHDlQ)
 
 
 
