@@ -205,4 +205,4 @@
 
 - [깃허브 협업](https://youtu.be/uWHseFDqZV0)
 
-- [포톤 3일차](https://youtu.be/X2YkCAiNaec)]
+- [포톤 3일차](https://youtu.be/X2YkCAiNaec)
