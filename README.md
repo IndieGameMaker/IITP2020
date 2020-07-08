@@ -186,4 +186,6 @@
 
 ### 동영상 링크
 
-[씬 병합 (https://youtu.be/l7TF6EtZCLQ)](https://youtu.be/l7TF6EtZCLQ)
+- [씬 병합 (https://youtu.be/l7TF6EtZCLQ)](https://youtu.be/l7TF6EtZCLQ)
+- [깃 충돌해결 (https://youtu.be/VMo8EDBQOw4)](https://youtu.be/VMo8EDBQOw4)
+
