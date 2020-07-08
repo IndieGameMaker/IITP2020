@@ -183,3 +183,7 @@
 - 프로젝트 세부 기획 (브레인 스토밍)
   
 ---
+
+### 동영상 링크
+
+[씬 병합 (https://youtu.be/l7TF6EtZCLQ)](https://youtu.be/l7TF6EtZCLQ)
