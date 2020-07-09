@@ -188,8 +188,9 @@
 
 - [씬 병합 (https://youtu.be/l7TF6EtZCLQ)](https://youtu.be/l7TF6EtZCLQ)
 - [깃 충돌해결 (https://youtu.be/VMo8EDBQOw4)](https://youtu.be/VMo8EDBQOw4)
+- [iTween 사용법(https://youtu.be/LGpPekADvCc)](https://youtu.be/LGpPekADvCc)
 
-이동처리
+### 유니티에서의 이동처리 방식
 
 - Transform.position
 - Rigidbody.AddForce   .velocity  .AddRelativeForce
