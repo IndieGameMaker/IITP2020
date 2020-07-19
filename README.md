@@ -182,6 +182,8 @@
 - 팀원 업무 분장(대략적인 업무)
 - 프로젝트 세부 기획 (브레인 스토밍)
 
+---
+
 ### 프로젝트 발표 문서 작성
 
 - [발표문서 공식 탬플릿](https://drive.google.com/file/d/1Md_cCOLKDtKy0DO5B_vdeiVO5sHdasWz/view?usp=sharing)
