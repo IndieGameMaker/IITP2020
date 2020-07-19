@@ -187,7 +187,7 @@
 - [발표문서 공식 탬플릿](https://drive.google.com/file/d/1Md_cCOLKDtKy0DO5B_vdeiVO5sHdasWz/view?usp=sharing)
 
 - 발표문서는 07월 24일 10:00 까지 아래 구글 드라이브에 업로드해주세요.(마감시간 엄수)
-- 
+
 - [발표문서 업로드](https://drive.google.com/drive/folders/1Kc7XSRubVvGZcTdrl04FFs2ui9HDg5LG?usp=sharing)
 
 ### 발표 문서 작성
