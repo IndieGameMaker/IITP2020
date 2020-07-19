@@ -197,10 +197,10 @@
    - 기획 목적
    - 개발 구성원 소개 및 담당 업무
    - 개발 환경
-     - 개발 툴(Unity)
+     - 개발 툴 : Unity, Blender, PhotoShop, ...
      - 소스 관리 방법(기법) : Github, Trello, Slack, Collaborator, Google Docs, ...
      - 사용 하드웨어 : Vive, Quest
-   - 개발 일정별 진행상황 : 간트 차트가 효율적임
+   - 개발 일정별 진행상황 : [간트차트](https://ko.wikipedia.org/wiki/간트_차트)가 효율적임
    - 구현한 주요 기능
      - **짧은 동영상 자료**(Animated GIF, mp4)를 첨부하는 것이 효과적임.
    - 개발 후기 : 아쉬웠던 점, 느낀 점등을 기술.
@@ -213,12 +213,12 @@
 
 ---
 
+<!-- 
 ### 동영상 링크
-
-<!-- - [씬 병합 (https://youtu.be/l7TF6EtZCLQ)](https://youtu.be/l7TF6EtZCLQ)
+- [씬 병합 (https://youtu.be/l7TF6EtZCLQ)](https://youtu.be/l7TF6EtZCLQ)
 - [깃 충돌해결 (https://youtu.be/VMo8EDBQOw4)](https://youtu.be/VMo8EDBQOw4)
 - [iTween 사용법(https://youtu.be/LGpPekADvCc)](https://youtu.be/LGpPekADvCc)
-- [Oculusion Culling 및 Skybox(https://youtu.be/IdbGDg1Qm3k)](https://youtu.be/IdbGDg1Qm3k) -->
+- [Oculusion Culling 및 Skybox(https://youtu.be/IdbGDg1Qm3k)](https://youtu.be/IdbGDg1Qm3k)
 
 ### 유니티에서의 이동처리 방식
 
@@ -237,3 +237,5 @@
 - SkyDome
 - Procedural Sky (파라미터 값을 조정)
 - Cube Map
+
+-->
