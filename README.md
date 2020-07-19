@@ -198,10 +198,12 @@
    - 개발 구성원 소개 및 담당 업무
    - 개발 환경
      - 개발 툴(Unity)
-     - 소스 관리 방법(기법) : Github , Trello, Slack, Collaborator, Google Docs, ...
+     - 소스 관리 방법(기법) : Github, Trello, Slack, Collaborator, Google Docs, ...
      - 사용 하드웨어 : Vive, Quest
+   - 개발 일정별 진행상황 : 간트 차트가 효율적임
    - 구현한 주요 기능
      - **짧은 동영상 자료**(Animated GIF, mp4)를 첨부하는 것이 효과적임.
+   - 개발 후기 : 아쉬웠던 점, 느낀 점등을 기술.
 
 2. 발표문서 작성시 피해야 할 내용 또는 작성 방식
 
