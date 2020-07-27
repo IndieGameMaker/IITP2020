@@ -264,6 +264,10 @@
 [발표회 사진](https://drive.google.com/drive/folders/1v4tBaTXwL627pm0jH6EI_tj0HTr6TFt_?usp=sharing)
 ---
 
+### ML Mummy 프로젝트 소스
+
+[프로젝트 Git](https://github.com/IndieGameMaker/Mummy_202007.git)
+
 <!--
 ### 동영상 링크
 - [씬 병합 (https://youtu.be/l7TF6EtZCLQ)](https://youtu.be/l7TF6EtZCLQ)
