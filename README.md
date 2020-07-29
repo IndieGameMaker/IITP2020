@@ -269,7 +269,7 @@
 [프로젝트 Git](https://github.com/IndieGameMaker/Mummy_202007.git)
 
 
-### 동영상 링크
+### 수업 동영상 링크
 
 - [ML-Agents 1(https://youtu.be/Y7KG_P301kc)](https://youtu.be/Y7KG_P301kc)
 - [ML-Agents 2(https://youtu.be/T8ZIIAO1_aw)](https://youtu.be/T8ZIIAO1_aw)
