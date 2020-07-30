@@ -269,6 +269,7 @@
 [프로젝트 Git](https://github.com/IndieGameMaker/Mummy_202007.git)
 
 
+<!--
 ### 수업 동영상 링크
 
 - [ML-Agents 1(https://youtu.be/Y7KG_P301kc)](https://youtu.be/Y7KG_P301kc)
@@ -276,7 +277,6 @@
 - [ML-Agents 3(https://youtu.be/-12yuvv5IMw)](https://youtu.be/-12yuvv5IMw)
 - [ML-Agents 4(https://youtu.be/Ax8Pb6YmFLI)](https://youtu.be/Ax8Pb6YmFLI)
 
-<!--
 - [씬 병합 (https://youtu.be/l7TF6EtZCLQ)](https://youtu.be/l7TF6EtZCLQ)
 - [깃 충돌해결 (https://youtu.be/VMo8EDBQOw4)](https://youtu.be/VMo8EDBQOw4)
 - [iTween 사용법(https://youtu.be/LGpPekADvCc)](https://youtu.be/LGpPekADvCc)
